@@ -1,0 +1,14 @@
+.container {
+    text-align: center; /* Center align the text */
+}
+
+h1 {
+    font-weight: bold; /* Make the text bold */
+}
+
+.app-img {
+    width: 100%; /* Set width to fill the container */
+    height: auto; /* Let height adjust automatically to maintain aspect ratio */
+    object-fit: cover; /* Maintain aspect ratio and cover container */
+    margin-bottom: 10px; /* Add margin bottom to create space */
+}
